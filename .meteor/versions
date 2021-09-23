@@ -1,7 +1,7 @@
 allow-deny@1.1.0
 autopublish@1.0.7
 autoupdate@1.7.0
-babel-compiler@7.6.1
+babel-compiler@7.7.0
 babel-runtime@1.5.0
 base64@1.0.12
 binary-heap@1.0.11
@@ -19,7 +19,7 @@ ddp-common@1.4.0
 ddp-server@2.3.2
 diff-sequence@1.1.1
 dynamic-import@0.6.0
-ecmascript@0.15.1
+ecmascript@0.15.3
 ecmascript-runtime@0.7.0
 ecmascript-runtime-client@0.11.0
 ecmascript-runtime-server@0.10.0
@@ -72,7 +72,7 @@ templating-compiler@1.4.0
 templating-runtime@1.4.0
 templating-tools@1.2.0
 tracker@1.2.0
-typescript@4.2.2
+typescript@4.3.5
 ui@1.0.13
 underscore@1.0.10
 webapp@1.10.1
